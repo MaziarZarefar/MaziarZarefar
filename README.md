@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @MaziarZarefar
 ------------------
-## A junior Frontend Developer with so many goals😎👌👨‍💻
+## Frontend Developer with so many goals😎👌👨‍💻
 
 **My favorite sport : 🏀** 
 
